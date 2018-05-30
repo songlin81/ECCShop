@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Projects\app\shop\eccshop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd07f11d0b5f02cc679de9130023cf778e925d41">
+        <dex dex="C:\Projects\app\shop\eccshop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8ac5a2710c17e0a365e8d93ef99e3e196fee29e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\app\shop\eccshop\app\libs\alipaySdk-20170725.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c36921ced2693fec6cb2c6161eedd295222daaa">
+        <dex dex="C:\Projects\app\shop\eccshop\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySdk-20170725_c0db021619b423884f5218f715fe02d8853d91ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\app\shop\eccshop\app\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="C:\Projects\app\shop\eccshop\app\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_3f9a9782c07b48444cc832b6ac3b0671a37cb901\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\app\shop\eccshop\app\libs\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Projects\app\shop\eccshop\app\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus-3.0.0_59cc002303bc3b5c934ddb66adc2f3683227402d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\app\shop\eccshop\app\libs\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Projects\app\shop\eccshop\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.7_36a109d61341e7493695b2b57f624f7817d5cc30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\app\shop\eccshop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Projects\app\shop\eccshop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c068cd3fa81c9698c9f4e738d75883a380e14437\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\app\shop\eccshop\app\libs\okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="C:\Projects\app\shop\eccshop\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.8.1_cce23db70d88d38fb6f98260ab14a2ff3b7a736b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\app\shop\eccshop\app\libs\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Projects\app\shop\eccshop\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.13.0_f6be97874e45d2a669990b67467fd6a5421e8314\classes.dex" />
+    </item>
+
+</items>

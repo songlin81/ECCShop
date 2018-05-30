@@ -1,0 +1,12 @@
+package com.example.v0cn140.eccshop.photoview.gesture;
+
+public interface OnGestureListener {
+
+    public void onDrag(float dx, float dy);
+
+    public void onFling(float startX, float startY, float velocityX,
+                        float velocityY);
+
+    public void onScale(float scaleFactor, float focusX, float focusY);
+
+}
